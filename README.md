@@ -8,9 +8,7 @@
 
 ## 🙋 Sobre mim
 
-- 💻 Estou aprendendo e desenvolvendo projetos próprios.
-- 🚀 Uso este perfil para compartilhar o que estou construindo.
-- 📌 Veja meus repositórios fixados abaixo para conhecer meus projetos.
+Crio alguns projetos, e tento aprender com eles. 
 
 ## 📊 Meu GitHub
 

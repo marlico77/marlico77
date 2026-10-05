@@ -8,7 +8,7 @@
 
 ## 🙋 Sobre mim
 
-Crio alguns projetos, e tento aprender com eles. 
+Criando coisas, e aprendendo com elas. 
 
 ## 📊 Meu GitHub
 
@@ -26,6 +26,14 @@ Crio alguns projetos, e tento aprender com eles.
 - [📦 Controle de estoque](https://github.com/marlico77/Controle-de-estoque)
 - [✍️ Eschrybah](https://github.com/marlico77/Eschrybah)
 - [🍕 Pizza Computaria](https://github.com/marlico77/pizza-computaria)
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marlico77/marlico77/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marlico77/marlico77/output/github-snake.svg" />
+  <img alt="Animação da cobrinha com minhas contribuições do GitHub" src="https://raw.githubusercontent.com/marlico77/marlico77/output/github-snake.svg" />
+</picture>
 
 ---
 
